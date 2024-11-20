@@ -41,7 +41,7 @@ body {
 .display {
   background: rgba(255, 255, 255, 0.1);
   color: #fff;
-  border: none;
+  border: solid 1px black;
   border-radius: 12px;
   padding: 15px 20px;
   font-size: 184%;
